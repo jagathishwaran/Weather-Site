@@ -1,13 +1,13 @@
 
 ## Title
 
-TG Codes💛-Weather App
+Weather App
 ## Description 
 
 Introducing my weather app built in JavaScript! With data sourced from OpenWeatherMap, it provides real-time weather conditions for any city. Stay informed and plan your day accordingly with this reliable and user-friendly application.
 ## Authors
 
-- [TG💛](https://www.github.com/codesofTG) 
+- [jagathishwaran](https://www.github.com/jagathishwaran) 
 
 
 ## Demo
